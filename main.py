@@ -115,3 +115,4 @@ def predict(data: IrisInput):
             status_code=500,
             detail="Internal Server Error during prediction"
         )
+        
